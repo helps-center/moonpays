@@ -1,0 +1,1132 @@
+Uri: http://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31977627.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31977627.jpeg
+Content Type: image/jpeg
+
+Uri: http://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31978404.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31978404.jpeg
+Content Type: image/jpeg
+
+Uri: http://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31981555.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31981555.jpeg
+Content Type: image/jpeg
+
+Uri: http://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31981674.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31981674.jpeg
+Content Type: image/jpeg
+
+Uri: http://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31992303.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31992303.jpeg
+Content Type: image/jpeg
+
+Uri: http://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31995030.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31995030.jpeg
+Content Type: image/jpeg
+
+Uri: https://app.surecart.com/assets/seed/books-44fb3780.jpg
+File Name: E:\website-2025\mountainandhillside.site\assets\seed\books-44fb3780.jpg
+Content Type: image/jpeg
+
+Uri: https://app.surecart.com/assets/seed/box-345c35e4.jpg
+File Name: E:\website-2025\mountainandhillside.site\assets\seed\box-345c35e4.jpg
+Content Type: image/jpeg
+
+Uri: https://app.surecart.com/assets/seed/case-5f516670.jpg
+File Name: E:\website-2025\mountainandhillside.site\assets\seed\case-5f516670.jpg
+Content Type: image/jpeg
+
+Uri: https://app.surecart.com/assets/seed/coffee-971f8a37.jpg
+File Name: E:\website-2025\mountainandhillside.site\assets\seed\coffee-971f8a37.jpg
+Content Type: image/jpeg
+
+Uri: https://app.surecart.com/assets/seed/dispenser-d53a6fc2.jpg
+File Name: E:\website-2025\mountainandhillside.site\assets\seed\dispenser-d53a6fc2.jpg
+Content Type: image/jpeg
+
+Uri: https://app.surecart.com/assets/seed/drawstring_bag-20392365.jpg
+File Name: E:\website-2025\mountainandhillside.site\assets\seed\drawstring_bag-20392365.jpg
+Content Type: image/jpeg
+
+Uri: https://app.surecart.com/assets/seed/envelope-298d5509.jpg
+File Name: E:\website-2025\mountainandhillside.site\assets\seed\envelope-298d5509.jpg
+Content Type: image/jpeg
+
+Uri: https://app.surecart.com/assets/seed/gift_bag-48c015f0.jpg
+File Name: E:\website-2025\mountainandhillside.site\assets\seed\gift_bag-48c015f0.jpg
+Content Type: image/jpeg
+
+Uri: https://app.surecart.com/assets/seed/hoodie-78a145a0.jpg
+File Name: E:\website-2025\mountainandhillside.site\assets\seed\hoodie-78a145a0.jpg
+Content Type: image/jpeg
+
+Uri: https://app.surecart.com/assets/seed/tote_bag-66eaf661.jpg
+File Name: E:\website-2025\mountainandhillside.site\assets\seed\tote_bag-66eaf661.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Albert+Sans:500%2C%2C700&display=fallback&ver=4.11.0
+File Name: E:\website-2025\mountainandhillside.site\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHmZPPq4fy.ttf
+File Name: E:\website-2025\mountainandhillside.site\s\albertsans\v1\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHmZPPq4fy.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5PPq4fy.ttf
+File Name: E:\website-2025\mountainandhillside.site\s\albertsans\v1\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5PPq4fy.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHTJTPq4fy.ttf
+File Name: E:\website-2025\mountainandhillside.site\s\albertsans\v1\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHTJTPq4fy.ttf
+Content Type: font/ttf
+
+Uri: https://js.surecart.com/v1/affiliates?ver=1.1
+File Name: E:\website-2025\mountainandhillside.site\v1\affiliates
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/
+File Name: E:\website-2025\mountainandhillside.site\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/about/
+File Name: E:\website-2025\mountainandhillside.site\about\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/author/admin/
+File Name: E:\website-2025\mountainandhillside.site\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/author/admin/feed/
+File Name: E:\website-2025\mountainandhillside.site\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mountainandhillside.site/blog/
+File Name: E:\website-2025\mountainandhillside.site\blog\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/category/general/
+File Name: E:\website-2025\mountainandhillside.site\category\general\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/category/general/feed/
+File Name: E:\website-2025\mountainandhillside.site\category\general\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mountainandhillside.site/checkout/
+File Name: E:\website-2025\mountainandhillside.site\checkout\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/comments/feed/
+File Name: E:\website-2025\mountainandhillside.site\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mountainandhillside.site/contact/
+File Name: E:\website-2025\mountainandhillside.site\contact\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/feed/
+File Name: E:\website-2025\mountainandhillside.site\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mountainandhillside.site/post-1/
+File Name: E:\website-2025\mountainandhillside.site\post-1\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/post-1/feed/
+File Name: E:\website-2025\mountainandhillside.site\post-1\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mountainandhillside.site/post-2/
+File Name: E:\website-2025\mountainandhillside.site\post-2\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/post-2/feed/
+File Name: E:\website-2025\mountainandhillside.site\post-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mountainandhillside.site/post-3/
+File Name: E:\website-2025\mountainandhillside.site\post-3\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/post-3/feed/
+File Name: E:\website-2025\mountainandhillside.site\post-3\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mountainandhillside.site/privacy-policy-2/
+File Name: E:\website-2025\mountainandhillside.site\privacy-policy-2\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/multiple-variation-product/
+File Name: E:\website-2025\mountainandhillside.site\products\multiple-variation-product\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/multiple-variation-product/?products-page=1
+File Name: E:\website-2025\mountainandhillside.site\products\multiple-variation-product\index-2.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/multiple-variation-product/?products-page=2
+File Name: E:\website-2025\mountainandhillside.site\products\multiple-variation-product\index-1.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/multiple-variation-product/?products-page=3
+File Name: E:\website-2025\mountainandhillside.site\products\multiple-variation-product\index-3.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/name-your-own-price-product/
+File Name: E:\website-2025\mountainandhillside.site\products\name-your-own-price-product\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/name-your-own-price-product/?products-page=1
+File Name: E:\website-2025\mountainandhillside.site\products\name-your-own-price-product\index-2.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/name-your-own-price-product/?products-page=2
+File Name: E:\website-2025\mountainandhillside.site\products\name-your-own-price-product\index-1.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/name-your-own-price-product/?products-page=3
+File Name: E:\website-2025\mountainandhillside.site\products\name-your-own-price-product\index-3.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/product-multiple-subscription-options/
+File Name: E:\website-2025\mountainandhillside.site\products\product-multiple-subscription-options\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/product-multiple-subscription-options/?products-page=1
+File Name: E:\website-2025\mountainandhillside.site\products\product-multiple-subscription-options\index-2.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/product-multiple-subscription-options/?products-page=2
+File Name: E:\website-2025\mountainandhillside.site\products\product-multiple-subscription-options\index-1.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/product-multiple-subscription-options/?products-page=3
+File Name: E:\website-2025\mountainandhillside.site\products\product-multiple-subscription-options\index-3.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/sale-product/
+File Name: E:\website-2025\mountainandhillside.site\products\sale-product\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/sale-product/?products-page=1
+File Name: E:\website-2025\mountainandhillside.site\products\sale-product\index-2.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/sale-product/?products-page=2
+File Name: E:\website-2025\mountainandhillside.site\products\sale-product\index-1.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/sale-product/?products-page=3
+File Name: E:\website-2025\mountainandhillside.site\products\sale-product\index-3.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/simple-digital-product/
+File Name: E:\website-2025\mountainandhillside.site\products\simple-digital-product\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/simple-digital-product/?products-page=1
+File Name: E:\website-2025\mountainandhillside.site\products\simple-digital-product\index-2.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/simple-digital-product/?products-page=2
+File Name: E:\website-2025\mountainandhillside.site\products\simple-digital-product\index-1.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/simple-digital-product/?products-page=3
+File Name: E:\website-2025\mountainandhillside.site\products\simple-digital-product\index-3.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/simple-installment-product/
+File Name: E:\website-2025\mountainandhillside.site\products\simple-installment-product\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/simple-installment-product/?products-page=1
+File Name: E:\website-2025\mountainandhillside.site\products\simple-installment-product\index-2.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/simple-installment-product/?products-page=2
+File Name: E:\website-2025\mountainandhillside.site\products\simple-installment-product\index-1.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/simple-installment-product/?products-page=3
+File Name: E:\website-2025\mountainandhillside.site\products\simple-installment-product\index-3.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/simple-physical-product/
+File Name: E:\website-2025\mountainandhillside.site\products\simple-physical-product\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/simple-physical-product/?products-page=1
+File Name: E:\website-2025\mountainandhillside.site\products\simple-physical-product\index-2.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/simple-physical-product/?products-page=2
+File Name: E:\website-2025\mountainandhillside.site\products\simple-physical-product\index-1.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/simple-physical-product/?products-page=3
+File Name: E:\website-2025\mountainandhillside.site\products\simple-physical-product\index-3.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/single-variable-product/
+File Name: E:\website-2025\mountainandhillside.site\products\single-variable-product\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/single-variable-product/?products-page=1
+File Name: E:\website-2025\mountainandhillside.site\products\single-variable-product\index-2.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/single-variable-product/?products-page=2
+File Name: E:\website-2025\mountainandhillside.site\products\single-variable-product\index-1.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/single-variable-product/?products-page=3
+File Name: E:\website-2025\mountainandhillside.site\products\single-variable-product\index-3.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/subscribe-save-product/
+File Name: E:\website-2025\mountainandhillside.site\products\subscribe-save-product\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/subscribe-save-product/?products-page=1
+File Name: E:\website-2025\mountainandhillside.site\products\subscribe-save-product\index-2.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/subscribe-save-product/?products-page=2
+File Name: E:\website-2025\mountainandhillside.site\products\subscribe-save-product\index-1.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/subscribe-save-product/?products-page=3
+File Name: E:\website-2025\mountainandhillside.site\products\subscribe-save-product\index-3.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/subscription-product-with-free-trial/
+File Name: E:\website-2025\mountainandhillside.site\products\subscription-product-with-free-trial\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/subscription-product-with-free-trial/?products-page=1
+File Name: E:\website-2025\mountainandhillside.site\products\subscription-product-with-free-trial\index-2.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/subscription-product-with-free-trial/?products-page=2
+File Name: E:\website-2025\mountainandhillside.site\products\subscription-product-with-free-trial\index-1.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/subscription-product-with-free-trial/?products-page=3
+File Name: E:\website-2025\mountainandhillside.site\products\subscription-product-with-free-trial\index-3.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/subscription-product-with-setup-fee/
+File Name: E:\website-2025\mountainandhillside.site\products\subscription-product-with-setup-fee\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/subscription-product-with-setup-fee/?products-page=1
+File Name: E:\website-2025\mountainandhillside.site\products\subscription-product-with-setup-fee\index-2.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/subscription-product-with-setup-fee/?products-page=2
+File Name: E:\website-2025\mountainandhillside.site\products\subscription-product-with-setup-fee\index-1.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/products/subscription-product-with-setup-fee/?products-page=3
+File Name: E:\website-2025\mountainandhillside.site\products\subscription-product-with-setup-fee\index-3.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/
+File Name: E:\website-2025\mountainandhillside.site\shop\index.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=asc&products-orderby=date
+File Name: E:\website-2025\mountainandhillside.site\shop\index-2.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=asc&products-orderby=date&products-page=1
+File Name: E:\website-2025\mountainandhillside.site\shop\index-11.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=asc&products-orderby=date&products-page=2
+File Name: E:\website-2025\mountainandhillside.site\shop\index-12.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=asc&products-orderby=price
+File Name: E:\website-2025\mountainandhillside.site\shop\index-5.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=asc&products-orderby=price&products-page=1
+File Name: E:\website-2025\mountainandhillside.site\shop\index-17.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=asc&products-orderby=price&products-page=2
+File Name: E:\website-2025\mountainandhillside.site\shop\index-18.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=asc&products-orderby=title
+File Name: E:\website-2025\mountainandhillside.site\shop\index-3.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=asc&products-orderby=title&products-page=1
+File Name: E:\website-2025\mountainandhillside.site\shop\index-13.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=asc&products-orderby=title&products-page=2
+File Name: E:\website-2025\mountainandhillside.site\shop\index-14.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=desc&products-orderby=date
+File Name: E:\website-2025\mountainandhillside.site\shop\index-1.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=desc&products-orderby=date&products-page=1
+File Name: E:\website-2025\mountainandhillside.site\shop\index-9.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=desc&products-orderby=date&products-page=2
+File Name: E:\website-2025\mountainandhillside.site\shop\index-10.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=desc&products-orderby=price
+File Name: E:\website-2025\mountainandhillside.site\shop\index-6.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=desc&products-orderby=price&products-page=1
+File Name: E:\website-2025\mountainandhillside.site\shop\index-19.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=desc&products-orderby=price&products-page=2
+File Name: E:\website-2025\mountainandhillside.site\shop\index-20.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=desc&products-orderby=title
+File Name: E:\website-2025\mountainandhillside.site\shop\index-4.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=desc&products-orderby=title&products-page=1
+File Name: E:\website-2025\mountainandhillside.site\shop\index-15.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-order=desc&products-orderby=title&products-page=2
+File Name: E:\website-2025\mountainandhillside.site\shop\index-16.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-page=1
+File Name: E:\website-2025\mountainandhillside.site\shop\index-7.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-page=1&products-order=asc&products-orderby=date
+File Name: E:\website-2025\mountainandhillside.site\shop\index-22.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-page=1&products-order=asc&products-orderby=price
+File Name: E:\website-2025\mountainandhillside.site\shop\index-25.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-page=1&products-order=asc&products-orderby=title
+File Name: E:\website-2025\mountainandhillside.site\shop\index-23.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-page=1&products-order=desc&products-orderby=date
+File Name: E:\website-2025\mountainandhillside.site\shop\index-21.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-page=1&products-order=desc&products-orderby=price
+File Name: E:\website-2025\mountainandhillside.site\shop\index-26.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-page=1&products-order=desc&products-orderby=title
+File Name: E:\website-2025\mountainandhillside.site\shop\index-24.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-page=2
+File Name: E:\website-2025\mountainandhillside.site\shop\index-8.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-page=2&products-order=asc&products-orderby=date
+File Name: E:\website-2025\mountainandhillside.site\shop\index-28.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-page=2&products-order=asc&products-orderby=price
+File Name: E:\website-2025\mountainandhillside.site\shop\index-31.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-page=2&products-order=asc&products-orderby=title
+File Name: E:\website-2025\mountainandhillside.site\shop\index-29.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-page=2&products-order=desc&products-orderby=date
+File Name: E:\website-2025\mountainandhillside.site\shop\index-27.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-page=2&products-order=desc&products-orderby=price
+File Name: E:\website-2025\mountainandhillside.site\shop\index-32.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/shop/?products-page=2&products-order=desc&products-orderby=title
+File Name: E:\website-2025\mountainandhillside.site\shop\index-30.htm
+Content Type: text/html
+
+Uri: https://mountainandhillside.site/wp-content/plugins/astra-sites/inc/lib/onboarding/assets/dist/template-preview/main.js?ver=06758d4d807d9d22c6ea
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\astra-sites\inc\lib\onboarding\assets\dist\template-preview\main.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/dist/components/static-loader.js?ver=c588f0555cdc032c647e-3.8.2
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\dist\components\static-loader.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/dist/components/surecart/surecart.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\dist\components\surecart\surecart.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/blocks/cart-icon/style-index.css?ver=1.0.0
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\blocks\cart-icon\style-index.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/blocks/currency-switcher/style-index.css?ver=1.0.0
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\blocks\currency-switcher\style-index.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/blocks/product-list-sidebar/style-index.css?ver=1.0.0
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\blocks\product-list-sidebar\style-index.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/blocks/product-pagination/style-index.css?ver=1.0.0
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\blocks\product-pagination\style-index.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/blocks/product-template/style-index.css?ver=1.0.0
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\blocks\product-template\style-index.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/scripts/cart/index.js?ver=4b29ce0031f7a842a5ab
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\scripts\cart\index.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/scripts/checkout/index.js?ver=a3bd0720bee23cd51f06
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\scripts\checkout\index.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/scripts/dropdown/index.js?ver=775e2fb45ec79809bcc1
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\scripts\dropdown\index.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/scripts/image-slider/index.js?ver=8892e0d3759848879a7d
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\scripts\image-slider\index.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/scripts/lightbox/index.js?ver=3ba109eb953eac36f23d
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\scripts\lightbox\index.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/scripts/product-list/index.js?ver=e6a9069ecb1ae4dd2c7f
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\scripts\product-list\index.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/scripts/product-page/index.js?ver=c11c81f25b0a0758935c
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\scripts\product-page\index.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/alert.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\alert.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/block-ui.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\block-ui.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/button.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\button.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/choice.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\choice.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/coupon-form.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\coupon-form.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/drawer.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\drawer.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/dropdown.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\dropdown.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/form-control.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\form-control.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/form-group.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\form-group.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/image-slider.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\image-slider.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/input-group.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\input-group.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/label.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\label.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/lightbox.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\lightbox.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/line-item.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\line-item.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/pill.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\pill.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/product-line-item.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\product-line-item.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/product-variants.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\product-variants.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/prose.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\prose.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/quantity-selector.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\quantity-selector.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/radio-checkbox.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\radio-checkbox.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/spinner.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\spinner.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/tag.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\tag.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/text.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\text.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/theme-base.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\theme-base.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/wp-button.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\wp-button.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks-next/build/styles/wp-buttons.css?ver=1746826365
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks-next\build\styles\wp-buttons.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks/Blocks/Columns/style.css?ver=6.8.1
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks\Blocks\Columns\style.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks/Blocks/Product/BuyButton/style.css?ver=6.8.1
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks\Blocks\Product\BuyButton\style.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks/Blocks/Upsell/CountdownTimer/style.css?ver=6.8.1
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks\Blocks\Upsell\CountdownTimer\style.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks/Blocks/Upsell/NoThanksButton/style.css?ver=6.8.1
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks\Blocks\Upsell\NoThanksButton\style.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/surecart/packages/blocks/Blocks/Upsell/SubmitButton/style.css?ver=6.8.1
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\surecart\packages\blocks\Blocks\Upsell\SubmitButton\style.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/ultimate-addons-for-gutenberg/assets/css/spectra-block-positioning.min.css?ver=2.19.9
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\ultimate-addons-for-gutenberg\assets\css\spectra-block-positioning.min.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/faq.min.js?ver=2.19.9
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\ultimate-addons-for-gutenberg\assets\js\faq.min.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/forms.min.js?ver=2.19.9
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\ultimate-addons-for-gutenberg\assets\js\forms.min.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/spectra-block-positioning.min.js?ver=2.19.9
+File Name: E:\website-2025\mountainandhillside.site\wp-content\plugins\ultimate-addons-for-gutenberg\assets\js\spectra-block-positioning.min.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.11.0
+File Name: E:\website-2025\mountainandhillside.site\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.11.0
+File Name: E:\website-2025\mountainandhillside.site\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2024/10/testimonial-skip-01.jpg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2024\10\testimonial-skip-01.jpg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2024/10/testimonial-skip-02.jpg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2024\10\testimonial-skip-02.jpg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2024/10/testimonial-skip-03.jpg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2024\10\testimonial-skip-03.jpg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2024/10/testimonial-skip-04.jpg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2024\10\testimonial-skip-04.jpg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2024/10/testimonial-skip-05.jpg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2024\10\testimonial-skip-05.jpg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2024/10/testimonial-skip-06.jpg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2024\10\testimonial-skip-06.jpg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31965724.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31965724.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31966173.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31966173.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31966179.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31966179.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31966194.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31966194.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31968175.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31968175.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31968280.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31968280.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31968880.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31968880.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31972484.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31972484.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31974603-1024x682.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31974603-1024x682.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31974603-300x200.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31974603-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31974603-768x512.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31974603-768x512.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31974603.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31974603.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31974612-1024x682.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31974612-1024x682.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31974612-300x200.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31974612-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31974612-768x512.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31974612-768x512.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31974612.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31974612.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31974617.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31974617.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31974626.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31974626.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31975255-225x300.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31975255-225x300.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31975255.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31975255.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31977619.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31977619.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31981287.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31981287.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31981551.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31981551.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31981570.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31981570.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31983555.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31983555.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31984754.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31984754.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31985198.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31985198.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31985206.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31985206.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31987732.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31987732.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31988791.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31988791.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/2025/05/pexels-photo-31988792.jpeg
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\2025\05\pexels-photo-31988792.jpeg
+Content Type: image/jpeg
+
+Uri: https://mountainandhillside.site/wp-content/uploads/uag-plugin/assets/1000/uag-css-718.css?ver=1746826842
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\uag-plugin\assets\1000\uag-css-718.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/uploads/uag-plugin/assets/1000/uag-css-720.css?ver=1746826842
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\uag-plugin\assets\1000\uag-css-720.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/uploads/uag-plugin/assets/1000/uag-css-722.css?ver=1746826842
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\uag-plugin\assets\1000\uag-css-722.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-content/uploads/uag-plugin/assets/1000/uag-js-722.js?ver=1746826842
+File Name: E:\website-2025\mountainandhillside.site\wp-content\uploads\uag-plugin\assets\1000\uag-js-722.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-includes/css/dist/block-library/style.min.css?ver=6.8.1
+File Name: E:\website-2025\mountainandhillside.site\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://mountainandhillside.site/wp-includes/js/comment-reply.min.js?ver=6.8.1
+File Name: E:\website-2025\mountainandhillside.site\wp-includes\js\comment-reply.min.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14
+File Name: E:\website-2025\mountainandhillside.site\wp-includes\js\dist\a11y.min.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-includes/js/dist/api-fetch.min.js?ver=3623a576c78df404ff20
+File Name: E:\website-2025\mountainandhillside.site\wp-includes\js\dist\api-fetch.min.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381
+File Name: E:\website-2025\mountainandhillside.site\wp-includes\js\dist\dom-ready.min.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: E:\website-2025\mountainandhillside.site\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: E:\website-2025\mountainandhillside.site\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-includes/js/dist/url.min.js?ver=6bf93e90403a1eec6501
+File Name: E:\website-2025\mountainandhillside.site\wp-includes\js\dist\url.min.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.1
+File Name: E:\website-2025\mountainandhillside.site\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: E:\website-2025\mountainandhillside.site\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: text/javascript
+
+Uri: https://mountainandhillside.site/wp-json/
+File Name: E:\website-2025\mountainandhillside.site\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fabout%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fabout%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fcheckout%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fcheckout%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fcontact%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fcontact%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fpost-1%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fpost-1%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fpost-2%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fpost-2%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fpost-3%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fpost-3%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fprivacy-policy-2%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fprivacy-policy-2%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fmultiple-variation-product%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fmultiple-variation-product%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fname-your-own-price-product%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fname-your-own-price-product%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fproduct-multiple-subscription-options%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fproduct-multiple-subscription-options%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fsale-product%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fsale-product%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fsimple-digital-product%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fsimple-digital-product%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fsimple-installment-product%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fsimple-installment-product%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fsimple-physical-product%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fsimple-physical-product%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fsingle-variable-product%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fsingle-variable-product%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fsubscribe-save-product%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fsubscribe-save-product%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fsubscription-product-with-free-trial%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fsubscription-product-with-free-trial%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fsubscription-product-with-setup-fee%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fproducts%2Fsubscription-product-with-setup-fee%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fshop%2F
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/oembed/1.0/embed?url=https:%2F%2Fmountainandhillside.site%2Fshop%2F&format=xml
+File Name: E:\website-2025\mountainandhillside.site\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/categories/2
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\categories\2
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/pages/715
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\pages\715
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/pages/717
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\pages\717
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/pages/718
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\pages\718
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/pages/720
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\pages\720
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/pages/722
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\pages\722
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/pages/758
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\pages\758
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/posts/244
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\posts\244
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/posts/246
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\posts\246
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/posts/247
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\posts\247
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/sc_product/273
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\sc_product\273
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/sc_product/274
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\sc_product\274
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/sc_product/275
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\sc_product\275
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/sc_product/276
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\sc_product\276
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/sc_product/278
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\sc_product\278
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/sc_product/279
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\sc_product\279
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/sc_product/280
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\sc_product\280
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/sc_product/281
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\sc_product\281
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/sc_product/282
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\sc_product\282
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/sc_product/284
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\sc_product\284
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/sc_product/285
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\sc_product\285
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/wp-json/wp/v2/users/1
+File Name: E:\website-2025\mountainandhillside.site\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://mountainandhillside.site/xmlrpc.php?rsd
+File Name: E:\website-2025\mountainandhillside.site\xmlrpc.php
+Content Type: text/xml
+
